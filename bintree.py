@@ -1,6 +1,5 @@
 # bintree.py
 # Raunak Anand
-# ECS 36A Winter 2019
 # This program creates a binary tree using words in a .txt file 
 
 class Node: # creating class Node 
